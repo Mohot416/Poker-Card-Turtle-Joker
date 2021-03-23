@@ -11,7 +11,7 @@ import SwiftUI
 struct Poker_Card_Turtle_JokerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(showMenu: .constant(true))
         }
     }
 }

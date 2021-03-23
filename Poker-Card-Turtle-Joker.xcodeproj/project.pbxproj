@@ -11,6 +11,7 @@
 		5B6EB4C82609FBEA00BCD775 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B6EB4C72609FBEA00BCD775 /* ContentView.swift */; };
 		5B6EB4CA2609FBED00BCD775 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B6EB4C92609FBED00BCD775 /* Assets.xcassets */; };
 		5B6EB4CD2609FBED00BCD775 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B6EB4CC2609FBED00BCD775 /* Preview Assets.xcassets */; };
+		5B6EB4D6260A05FD00BCD775 /* Playing_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B6EB4D5260A05FD00BCD775 /* Playing_View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		5B6EB4C92609FBED00BCD775 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B6EB4CC2609FBED00BCD775 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5B6EB4CE2609FBED00BCD775 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B6EB4D5260A05FD00BCD775 /* Playing_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Playing_View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				5B6EB4C52609FBEA00BCD775 /* Poker_Card_Turtle_JokerApp.swift */,
 				5B6EB4C72609FBEA00BCD775 /* ContentView.swift */,
+				5B6EB4D5260A05FD00BCD775 /* Playing_View.swift */,
 				5B6EB4C92609FBED00BCD775 /* Assets.xcassets */,
 				5B6EB4CE2609FBED00BCD775 /* Info.plist */,
 				5B6EB4CB2609FBED00BCD775 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B6EB4C82609FBEA00BCD775 /* ContentView.swift in Sources */,
+				5B6EB4D6260A05FD00BCD775 /* Playing_View.swift in Sources */,
 				5B6EB4C62609FBEA00BCD775 /* Poker_Card_Turtle_JokerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
